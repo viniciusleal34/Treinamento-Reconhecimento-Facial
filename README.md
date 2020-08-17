@@ -44,10 +44,10 @@ $ sudo python3 -m pip install dlib
 ```
 ### Iniciando Projeto
 ```
-$ git clone https://github.com/viniciusleal34/front-end-aluno.git
+$ git clone https://github.com/viniciusleal34/Treinamento-Reconhecimento-Facial.git
 ```
 ```
-$ cd front-end-aluno
+$ cd Treinamento-Reconhecimento-Facial
 ```
 ```
 $ python3 -m pip install -r requirements.txt
